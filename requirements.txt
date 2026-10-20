@@ -1,0 +1,4 @@
+numpy>=1.26
+matplotlib>=3.8
+scikit-learn>=1.3   # used ONLY for sklearn.datasets.load_digits
+pytest>=8           # optional: tests also run with `python -m tests.run_tests`
