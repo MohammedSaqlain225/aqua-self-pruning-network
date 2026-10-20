@@ -1,0 +1,13 @@
+{
+ "magnitude": {
+  "spearman_vs_true_dL": 0.5131268697968605
+ },
+ "taylor": {
+  "spearman_vs_true_dL": 0.5509214192261644
+ },
+ "fisher": {
+  "spearman_vs_true_dL": 0.6507306409184469
+ },
+ "n_probe": 600,
+ "base_loss": 0.0003078365122825175
+}

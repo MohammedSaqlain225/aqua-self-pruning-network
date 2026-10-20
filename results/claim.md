@@ -1,0 +1,1 @@
+At 99% sparsity (achieved 0.9900), Fisher-saliency pruning (no regrowth) reaches 96.56% test accuracy vs 96.74% for magnitude pruning, mean over 8 paired seeds (diff -0.17 pp, 95% paired-bootstrap CI [-0.69, +0.42], fisher better/worse/tied on 3/5/0 seeds); dense reference 98.16%.
